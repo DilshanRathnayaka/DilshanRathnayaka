@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **nimesh99rathnayaka@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XiQS_E1yOBuCXHVntI5K6Drfk8qZ7sGq/view?usp=drive_link](https://drive.google.com/file/d/1XiQS_E1yOBuCXHVntI5K6Drfk8qZ7sGq/view?usp=drive_link)
+- 📄 Know about my experiences [Nimesh_Dilshan_CV](https://drive.google.com/file/d/1XiQS_E1yOBuCXHVntI5K6Drfk8qZ7sGq/view?usp=drive_link)
 
 
 <h3 align="left">Languages and Tools:</h3>
