@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshanrathnayaka&label=Profile%20views&color=0e75b6&style=flat" alt="dilshanrathnayaka" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://portfolio-main-git-master-nimesh9945dilshangmailcoms-projects.vercel.app/](https://portfolio-main-git-master-nimesh9945dilshangmailcoms-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [Nimesh Dilshan](https://portfolio-main-git-master-nimesh9945dilshangmailcoms-projects.vercel.app/)
 
 - 📫 How to reach me **nimesh99rathnayaka@gmail.com**
 
