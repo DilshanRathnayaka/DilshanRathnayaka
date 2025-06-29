@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshanrathnayaka&label=Profile%20views&color=0e75b6&style=flat" alt="dilshanrathnayaka" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilshanrathnayaka" alt="dilshanrathnayaka" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-main-git-master-nimesh9945dilshangmailcoms-projects.vercel.app/](https://portfolio-main-git-master-nimesh9945dilshangmailcoms-projects.vercel.app/)
 
