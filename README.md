@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nimesh Dilshan</h1>
 <h3 align="center">A passionate Full-Stack Software developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshanrathnayaka&label=Profile%20views&color=0e75b6&style=flat" alt="dilshanrathnayaka" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dilshanrathnayaka&label=Profile%20views&color=0e75b6&style=flat" alt="dilshanrathnayaka" /> </p>
 
 
 - 👨‍💻 All of my projects are available at [Nimesh Dilshan](https://portfolio-main-git-master-nimesh9945dilshangmailcoms-projects.vercel.app/)
