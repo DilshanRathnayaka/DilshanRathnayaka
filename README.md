@@ -7,8 +7,8 @@
 - 👨‍💻 All of my projects are available at [Nimesh Dilshan](https://nimesh-dilshan.vercel.app/)
 
 - 📫 How to reach me **nimesh99rathnayaka@gmail.com**
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilshanrathnayaka&show_icons=true&locale=en" alt="dilshanrathnayaka" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshanrathnayaka&show_icons=true&locale=en&layout=compact" alt="dilshanrathnayaka" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilshanrathnayaka&show_icons=true&locale=en" alt="dilshanrathnayaka" /></p>
+
 
